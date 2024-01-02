@@ -49,9 +49,9 @@ public class AstonMainInternship {
         $("[name='informationSource']").$(byText("Рекомендации знакомых-сотрудников Aston")).click();
 
         $("[name='skype']").setValue("Vlad Samuseu");
-        $("[name='phone']").setValue("375333924180");
-        $("[name='email']").setValue("s67.freelance@gmail.com");
-        $("[name='socialNetworks']").setValue("VK = https://vk.com/kilovat_67, Telegram = @Samus67");
+        $("[name='phone']").setValue("375333920000");
+        $("[name='email']").setValue("aston.mail@gmail.com");
+        $("[name='socialNetworks']").setValue("Telegram = @Samus67");
         $("[name='agreement']").parent().click();
         $(".Trainee_navigation__u_Y5I").$(byText("Далее")).click();
         sleep(2000);
