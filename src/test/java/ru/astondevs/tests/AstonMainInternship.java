@@ -49,7 +49,7 @@ public class AstonMainInternship {
         $("[name='informationSource']").$(byText("Рекомендации знакомых-сотрудников Aston")).click();
 
         $("[name='skype']").setValue("Vlad Samuseu");
-        $("[name='phone']").setValue("375333920000");
+        $("[name='phone']").setValue("330000000");
         $("[name='email']").setValue("aston.mail@gmail.com");
         $("[name='socialNetworks']").setValue("Telegram = @Samus67");
         $("[name='agreement']").parent().click();
